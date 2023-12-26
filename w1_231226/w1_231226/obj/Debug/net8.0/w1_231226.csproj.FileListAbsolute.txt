@@ -1,0 +1,15 @@
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\bin\Debug\net8.0\w1_231226.exe
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\bin\Debug\net8.0\w1_231226.deps.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\bin\Debug\net8.0\w1_231226.runtimeconfig.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\bin\Debug\net8.0\w1_231226.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\bin\Debug\net8.0\w1_231226.pdb
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.GeneratedMSBuildEditorConfig.editorconfig
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.AssemblyInfoInputs.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.AssemblyInfo.cs
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.csproj.CoreCompileInputs.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.sourcelink.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\refint\w1_231226.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.pdb
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\w1_231226.genruntimeconfig.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\w1_231226\obj\Debug\net8.0\ref\w1_231226.dll
