@@ -1,0 +1,15 @@
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\bin\Debug\net8.0\DiceGame.exe
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\bin\Debug\net8.0\DiceGame.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+F:\lsh\git\code\AtentsUnity231226\w1_231226\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll

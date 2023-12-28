@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("w1_231226")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DiceGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf742d730eb2930c4aac08471c0f7300a5da400")]
-[assembly: System.Reflection.AssemblyProductAttribute("w1_231226")]
-[assembly: System.Reflection.AssemblyTitleAttribute("w1_231226")]
+[assembly: System.Reflection.AssemblyProductAttribute("DiceGame")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DiceGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
