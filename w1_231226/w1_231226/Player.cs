@@ -20,10 +20,11 @@ namespace w1_231226
             Console.WriteLine("플레이어가 공격한다");
         }*/
 
-        public override void Skill() // player의 skill 함수를 덮어쓴다.
+        protected override float onSkill() // player의 skill 함수를 덮어쓴다.
         {
-            base.Skill(); // player 부모클래스 Skill()을 실행하고 자신을 실행한다.
+            //base.Skill(); // player 부모클래스 Skill()을 실행하고 자신을 실행한다.
             Console.WriteLine("플레이어가 파이어 볼을 사용한다.");
+            return attackPower * 5;
         }
     }
 }

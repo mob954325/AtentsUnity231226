@@ -13,9 +13,10 @@ namespace w1_231226
 
         }
 
-        public override void Skill()
+        protected override float onSkill()
         {
             Console.WriteLine("적이 도끼를 던진다");
+            return attackPower * 3.0f;
         }
     }
 }
